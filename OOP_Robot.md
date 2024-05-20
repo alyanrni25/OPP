@@ -1,6 +1,6 @@
-#OOP ROBOT
-#PROGRAM
-```
+# OOP ROBOT
+## PROGRAM
+```c++
 #include <iostream>
 using namespace std;
 
@@ -36,8 +36,9 @@ int main() {
 
 
     return 0;
-````
+```
 
-#capture hasil running} ![running robot](https://github.com/alyanrni25/OPP/assets/156888432/164ea77b-0807-4bf4-b0e8-c3d3289a8abd)
+# Capture Hasil Running
+![running robot](https://github.com/alyanrni25/OPP/assets/156888432/164ea77b-0807-4bf4-b0e8-c3d3289a8abd)
 
 
