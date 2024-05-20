@@ -1,5 +1,7 @@
-# OPP
-```
+# OPP Jam Tangan
+## Program
+
+```c++
 #include <iostream>
 using namespace std;
 
@@ -52,4 +54,5 @@ int main() {
     return 0;
 }
 ```
-#Running hasil capture ![Screenshot 2024-05-20 090319](https://github.com/alyanrni25/OPP/assets/156888432/2f35b1bc-be15-43ad-9b07-16b550b813af)
+# Capture Hasil Running
+[Screenshot 2024-05-20 090319](https://github.com/alyanrni25/OPP/assets/156888432/2f35b1bc-be15-43ad-9b07-16b550b813af)
